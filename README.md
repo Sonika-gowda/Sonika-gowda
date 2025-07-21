@@ -1,6 +1,6 @@
 # 💫 About Me:
 <ul>
-<li>About Me: A 3rd-year Information Science student skilled in Java, C, DSA, and learning web development.</li><br><br><li>Currently working on enhancing my web development skills and practicing DSA.</li><br><br><li>Currently learning Full-stack development with HTML, CSS, JavaScript, and Node.js.</li><br><br><li>Looking to collaborate on Web development projects and Java-based applications.</li><br><br><li>Looking for help with Backend development and open-source contributions.</li><br><br><li>Reach out me at  <a href="mailto:sonikagowda2005@gmail.com">sonikagowda2005@gmail.com</a>.</li>
+<li>About Me: A 3rd-year Information Science student skilled in Java, C, DSA, and learning web development.</li><br><br><li>Currently working on enhancing my web development skills, soft skills and practicing DSA.</li><br><br><li>Currently learning Full-stack development with HTML, CSS, JavaScript, and Node.js.</li><br><br><li>Looking to collaborate on Web development projects and Java-based applications.</li><br><br><li>Looking for help with Backend development and open-source contributions.</li><br><br><li>Reach out me at  <a href="mailto:sonikagowda2005@gmail.com">sonikagowda2005@gmail.com</a>.</li>
 </ul>
 
 ## 🌐 Socials:
