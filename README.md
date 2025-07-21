@@ -1,6 +1,7 @@
 # 💫 About Me:
-About Me: A 3rd-year Information Science student skilled in Java, C, DSA, and learning web development.<br><br>Currently working on enhancing my web development skills and practicing DSA.<br><br>Currently learning Full-stack development with HTML, CSS, JavaScript, and Node.js.<br><br>Looking to collaborate on Web development projects and Java-based applications.<br><br>Looking for help with Backend development and open-source contributions.
-
+<ul>
+<li>About Me: A 3rd-year Information Science student skilled in Java, C, DSA, and learning web development.</li><br><br><li>Currently working on enhancing my web development skills and practicing DSA.</li><br><br><li>Currently learning Full-stack development with HTML, CSS, JavaScript, and Node.js.</li><br><br><li>Looking to collaborate on Web development projects and Java-based applications.</li><br><br><li>Looking for help with Backend development and open-source contributions.</li>
+</ul>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__soni_sn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sonika-shekharegowda) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sonikagowda2005@gmail.com) 
