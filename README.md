@@ -1,5 +1,5 @@
 # 💫 About Me:
-About Me: A 3rd-year Information Science student skilled in Java, C, DSA, and learning web development.<br><br>Currently working on: Enhancing my web development skills and practicing DSA.<br><br>Currently learning: Full-stack development with HTML, CSS, JavaScript, and Node.js.<br><br>Looking to collaborate on: Web development projects and Java-based applications.<br><br>Looking for help with: Backend development and open-source contributions.
+About Me: A 3rd-year Information Science student skilled in Java, C, DSA, and learning web development.<br><br>Currently working on enhancing my web development skills and practicing DSA.<br><br>Currently learning Full-stack development with HTML, CSS, JavaScript, and Node.js.<br><br>Looking to collaborate on Web development projects and Java-based applications.<br><br>Looking for help with Backend development and open-source contributions.
 
 
 ## 🌐 Socials:
